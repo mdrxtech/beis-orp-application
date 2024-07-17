@@ -1,4 +1,4 @@
-# Online Regulator Platform (ORP) client application
+# Open Regulation Platform (ORP) client application
 
 The UK regulatory landscape is complex and difficult to navigate. As a result, businesses must spend a lot of resources identifying which regulations they are expected to comply with. This is before they start to understand what they have to do to comply. Estimates from BEIS’s Business Perception Survey 2020 suggest that businesses spend, on average, around eight staff days per month complying with regulations. Economic analysis suggests that the ORP could create benefits to the UK economy of up to £500m, largely through reducing information search costs. 
 
